@@ -9,5 +9,5 @@ Transformar y visualizar los datos de manera que permita a los propietarios de t
 ## Resultados
 1.	La mujeres entre 18 - 22 años tienen la mayor venta y en los hombres compran mas entre los 43 - 47 años.
 2.	Lo mas vendido es la Ropa por tener mayor numero de transacciones siendo los Hombres los que realizan más.
-4.	Las mujeres tiene mayor munero de Ventas tanto en monto como en transacciones.
+3.	Las mujeres tiene mayor munero de Ventas tanto en monto como en transacciones.
 ![Captura](https://github.com/user-attachments/assets/8fb3faad-f68d-4794-a4d9-1d0f243d17d6)
